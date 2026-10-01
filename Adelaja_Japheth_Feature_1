@@ -1,0 +1,15 @@
+Name: Adelaja Japheth Oluwatosin
+Matric No: F/ND/25/3210098
+
+# Stock Audit Features
+
+## 1. Stock Ageing Report
+
+**Explanation:**
+This report lists how long each item has been in the store, usually grouped into age bands such as 0-30, 31-90, and 90+ days. It flags slow-moving, expired, or obsolete stock so that it can be marked down, written down, or disposed of. It also helps the system prioritise FIFO (First In, First Out) or FEFO (First Expired, First Out) picking, so older stock moves first.
+
+**Relevance to an Inventory Management System:**
+- Identifies slow-moving, expired, and obsolete stock early, before it becomes a total loss.
+- Supports FIFO/FEFO picking, which reduces spoilage and waste.
+- Frees up storage space and tied-up capital by prompting markdowns or disposal.
+- Provides data for better purchasing decisions and accurate stock valuation.
