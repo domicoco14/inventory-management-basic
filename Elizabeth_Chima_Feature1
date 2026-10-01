@@ -1,0 +1,15 @@
+Name: Chima Elizabeth Chiemerie
+Matric No: F/ND/25/3210082
+
+# Stock Audit Features
+
+## 1. Returns and Damaged Goods Checking
+
+*Explanation:*
+This feature requires every returned or damaged item to be inspected before it is added back to the stock records. Each item is checked and classified as resellable, repairable, or write-off. Only items that pass inspection are restocked.
+
+*Relevance to an Inventory Management System:*
+- Keeps stock records accurate, because damaged or unsellable items are not counted as available stock.
+- Prevents defective products from being sold to customers.
+- Gives a clear record of losses, which helps in tracing causes such as poor handling or supplier faults.
+- Supports accountability and accurate financial reporting of write-offs.
