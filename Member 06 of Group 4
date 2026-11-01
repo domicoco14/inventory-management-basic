@@ -1,0 +1,3 @@
+ TopSellingProduct.java
+   Goes in:      src/main/java/com/inventory/frontend/backend/dto/
+   What it is:   A small data record that carries numbers from the backend to the screen. GET /api/reports/top-selling: one slice of the donut and one table row.
