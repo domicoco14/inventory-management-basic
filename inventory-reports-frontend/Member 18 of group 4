@@ -1,5 +1,0 @@
-1. ReportStatisticsView.java
-   Goes in:      src/main/java/com/inventory/frontend/ui/
-   What it is:   A screen the user sees.
-
-If someone asks what you pushed, that is the answer: the "What it is" lines above.
